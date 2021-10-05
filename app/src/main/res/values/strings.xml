@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyReservationApp</string>
+    <string name="titleView">예약하실 시간을 선택하세요</string>
+    <string name="timeView">TextView</string>
+    <string name="btnText">선택</string>
+    <string name="resText">당신의 예약일정은</string>
+    <string name="resBtn2">예약시간 변경하기</string>
+    <string name="time">TextView</string>
+    <string name="dateTitle">예약하실 날짜를 선택하세요</string>
+    <string name="dateText">TextView</string>
+    <string name="selectDate">선택날짜</string>
+    <string name="endText">입니다.</string>
+</resources>
